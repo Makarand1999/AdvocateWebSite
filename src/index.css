@@ -8,9 +8,13 @@ body {
 }
 
 #home {
+  background-image: url(./Assets/Images/AdvMane1.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
+}
+.Mobile_Bg_Cover{
+  background-image: url(./Assets/Images/advback.jpg)!important;
 }
 
 .menu-enter {

@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'lawyer-bg': "url('https://images.unsplash.com/photo-1524758631624-e2822e304c36')", // Example URL
+        'lawyer-bg': "url('https://unsplash.com/photos/a-wooden-balance-scale-with-a-black-background-diZeo4uzp0o')", // Example URL
       },
     },
   },
