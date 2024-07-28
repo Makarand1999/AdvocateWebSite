@@ -1,0 +1,10 @@
+#about {
+    padding: 2rem;
+  }
+  
+  @media (max-width: 768px) {
+    #about {
+      padding: 1rem;
+    }
+  }
+  
