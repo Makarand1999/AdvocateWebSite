@@ -41,7 +41,7 @@ const Header = () => {
           <li><a href="#about" className="hover:text-gray-400" onClick={closeMenu}>About</a></li>
           <li><a href="#" className="hover:text-gray-400" onClick={closeMenu}>Case Studies</a></li>
           <li><a href="#contact" className="hover:text-gray-400" onClick={closeMenu}>Contact</a></li>
-          <li><a href="#contact" className="hover:text-gray-400" onClick={closeMenu}>Login</a></li>
+          <li><a href="#login" className="hover:text-gray-400" onClick={closeMenu}>Login</a></li>
         </ul>
       </nav>
     </header>
