@@ -9,6 +9,7 @@ import 'animate.css/animate.min.css';
 import LandingPage from './Components/LandingPage/LandingPage';
 import Login from './Components/Login/Login';
 import { Route, Routes } from 'react-router-dom';
+import Dashboard from './Components/Dashboard/Dashboard';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Routes>
           <Route path="/"element={<LandingPage/>}/>
           <Route path="/login"element={<Login/>}/>
+          <Route path='/Dashboard' element={<Dashboard/>}/>
         </Routes>
       </main>
       <Footer />
